@@ -1,0 +1,11 @@
+.footer {
+    padding-left : 3px;
+    padding-right : 3px;
+    padding-top : 5px;
+    padding-bottom: 5px;
+    background-color : beige;
+    text-align : center;
+}
+.footer_list{
+    margin-top : 10px;
+}
